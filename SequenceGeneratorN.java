@@ -1,9 +1,9 @@
 
 /**
- * 在这里给出对类 n 的描述。
- * 
- * @author (你的名字)
- * @version (一个版本号或者一个日期)
+ * Write a description of class ss here.
+ *
+ * @author (your name)
+ * @version (a version number or a date)
  */
 import java.io.FileWriter;
 import java.io.IOException;
