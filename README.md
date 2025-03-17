@@ -1,3 +1,6 @@
+[Read our preprint on BioRxiv](https://www.biorxiv.org/content/10.1101/2024.10.06.616857v1.abstract))
+
+
 Sequence Diversity Analysis Tools
 This repository contains a set of Java functions designed for the analysis of genetic diversity in viral quasispecies. The key functions included in this program are:
 
