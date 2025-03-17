@@ -1,9 +1,10 @@
 
 /**
- * 在这里给出对类 Hammingdistance 的描述。
- * 
- * @author (你的名字)
- * @version (一个版本号或者一个日期)
+* Write a description of class HammingDistanceMatrixCalculator here.
+*
+* @author : Jian Wu （吴健）
+* @version: version 1, 2025
+* License: MIT
  */
 
 import java.io.*;
