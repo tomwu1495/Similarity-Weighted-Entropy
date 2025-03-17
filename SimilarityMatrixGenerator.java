@@ -1,10 +1,13 @@
 
 /**
- * Write a description of class ss here.
- *
- * @author (your name)
- * @version (a version number or a date)
+* Write a description of class SimilarityMatrixGenerator here.
+*
+* @author : Jian Wu （吴健）
+* @version: version 1, 2025
+* License: MIT
  */
+
+
 import java.io.*;
 import java.util.ArrayList;
 import java.util.List;
