@@ -1,3 +1,11 @@
+/**
+* Write a description of class EntropyCalculator here.
+*
+* @author : Jian Wu （吴健）
+* @version: version 1, 2025
+* License: MIT
+ */
+
 import java.io.*;
 import java.util.ArrayList;
 import java.util.List;
