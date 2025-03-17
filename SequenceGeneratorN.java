@@ -1,10 +1,12 @@
 
 /**
- * Write a description of class n here.
- *
- * @author (your name)
- * @version (a version number or a date)
+* Write a description of class SequenceGeneratorN here.
+*
+* @author : Jian Wu （吴健）
+* @version: version 1, 2025
+* License: MIT
  */
+
 import java.io.FileWriter;
 import java.io.IOException;
 import java.util.ArrayList;
