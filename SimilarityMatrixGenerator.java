@@ -1,7 +1,11 @@
 
 /**
-* Write a description of class SimilarityMatrixGenerator here.
-*
+* The SimilarityMatrixGenerator Java program calculates the similarity matrix for a set of nucleotide sequences. The program performs the following tasks:
+  readSequences: Reads sequences from a CSV file, extracting the sequence data from the second column.
+  calculateSimilarityMatrix: Computes a similarity matrix where each entry represents the similarity between two sequences, calculated based on the number of matching positions.
+  calculateSimilarity: Computes the similarity between two sequences by counting the number of matching bases and dividing by the sequence length.
+  writeMatrixToFile: Writes the resulting similarity matrix to a CSV file, including a header with sequence labels.
+  In the example, the program reads sequences from x.csv, calculates the similarity matrix, and saves it to similarity_matrix.csv. Each matrix entry is a floating-point value representing the pairwise similarity between sequences.
 * @author : Jian Wu （吴健）
 * @version: version 1, 2025
 * License: MIT
