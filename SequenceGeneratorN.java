@@ -1,7 +1,10 @@
 
 /**
-* Write a description of class SequenceGeneratorN here.
-*
+* The SequenceGeneratorN Java program generates all possible nucleotide sequences of a specified length composed of the bases 'A', 'T', 'G', and 'C'. It performs the following functions:
+  generateSequences: Generates all possible sequences of a given length (n) by recursively combining the four bases.
+  generateSequencesHelper: A recursive helper function that builds sequences by appending bases until the desired length is reached.
+  writeSequencesToCSV: Writes the generated sequences to a CSV file, with each sequence labeled as "Seq 1", "Seq 2", etc.
+  In the example, the program generates all possible sequences of length n = 2, and saves them to a file named sequences.csv. The sequences are stored in the CSV with a header ("Seq, Sequence").
 * @author : Jian Wu （吴健）
 * @version: version 1, 2025
 * License: MIT
