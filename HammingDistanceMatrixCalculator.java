@@ -6,7 +6,7 @@
    calculateHammingDistanceMatrix: Constructs a matrix of pairwise Hamming distances for all sequences in the population.
    readSequencesFromFile: Reads sequences from a FASTA file, returning them as a list of strings.
    writeHammingDistanceMatrixToCSV: Writes the calculated Hamming distance matrix to a CSV file.
-The program reads sequences from a file (1.txt), computes the average pairwise Hamming distance, generates the Hamming distance matrix, and saves it to a CSV file (hamming_distance_matrix.csv).
+   The program reads sequences from a file (1.txt), computes the average pairwise Hamming distance, generates the Hamming distance matrix, and saves it to a CSV file (hamming_distance_matrix.csv).
 * @author : Jian Wu （吴健）
 * @version: version 1, 2025
 * License: MIT
