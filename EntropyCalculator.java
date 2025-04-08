@@ -1,6 +1,10 @@
 /**
-* Write a description of class EntropyCalculator here.
-*
+* The EntropyCalculator Java program calculates various entropy values (H, Hn, Hsim, Hnsim) for a given sequence population based on their frequencies and sequence similarities. The program reads the data from two CSV files: one for sequence frequencies and one for similarity matrices. The entropy calculations are performed using the following methods:
+H: Basic Shannon entropy, calculated as -∑fi * log2(fi).
+Hn: Normalized Shannon entropy, adjusted by dividing H by log2(N).
+Hsim: Similarity-weighted entropy, incorporating sequence similarities.
+Hnsim: Normalized similarity-weighted entropy, similar to Hn but accounting for sequence similarities.
+The program uses the BufferedReader to load the CSV data, and then computes the entropies with functions that handle frequency and similarity data. Finally, the results are printed in the console.
 * @author : Jian Wu （吴健）
 * @version: version 1, 2025
 * License: MIT
